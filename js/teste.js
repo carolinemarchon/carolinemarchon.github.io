@@ -7,62 +7,62 @@ var imagem6 = document.querySelector('#menu6');
 
 imagem1.addEventListener('mouseenter', function(event){
         
-imagem1.src ='saudefisica.png';
+imagem1.src ='img/saudefisica.png';
 });
   
 imagem1.addEventListener('mouseout', function(event){
         
-imagem1.src ='imgsaudefisica.jpg';
+imagem1.src ='img/imgsaudefisica.jpg';
 });
 
 imagem2.addEventListener('mouseenter', function(event){
         
-imagem2.src ='saudemulher.png';
+imagem2.src ='img/saudemulher.png';
 });
   
 imagem2.addEventListener('mouseout', function(event){
         
-imagem2.src ='imgsaudemulher.jpg';
+imagem2.src ='img/imgsaudemulher.jpg';
 });
 
 imagem3.addEventListener('mouseenter', function(event){
         
-imagem3.src ='saudeinfantil.png';
+imagem3.src ='img/saudeinfantil.png';
 });
   
 imagem3.addEventListener('mouseout', function(event){
         
-imagem3.src ='imgsaudeinfantil.jpg';
+imagem3.src ='img/imgsaudeinfantil.jpg';
 });
 
 imagem4.addEventListener('mouseenter', function(event){
         
-imagem4.src ='saudemental.png';
+imagem4.src ='img/saudemental.png';
 });
   
 imagem4.addEventListener('mouseout', function(event){
         
-imagem4.src ='imgsaudemental.png';
+imagem4.src ='img/imgsaudemental.png';
 });
 
 imagem5.addEventListener('mouseenter', function(event){
         
-imagem5.src ='idosos.png';
+imagem5.src ='img/idosos.png';
 });
   
 imagem5.addEventListener('mouseout', function(event){
         
-imagem5.src ='imgidosos.jpg';
+imagem5.src ='img/imgidosos.jpg';
 });
 
 imagem6.addEventListener('mouseenter', function(event){
         
-imagem6.src ='naosei.png';
+imagem6.src ='img/naosei.png';
 });
   
 imagem6.addEventListener('mouseout', function(event){
         
-imagem6.src ='naosei.jpg';
+imagem6.src ='img/naosei.jpg';
 });
 
 
