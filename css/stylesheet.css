@@ -9,11 +9,10 @@ header h1 {
 font-family: Impact, fantasy;
 font-size: 50px;
 padding: 75px;
-color: #fff;
-text-decoration: none;
 }
 
 header h1 a { 
+color: #fff;
 text-decoration: none;
 }
 
